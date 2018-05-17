@@ -2,24 +2,23 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="../css/style.css">
-    <script src="http://satoken.nkmr.io/main.js"></script>
+    <script src="javascripts/main.js"></script>
     <title>リンク</title>
 </head>
 <body>
     <div class="nav fixed">
         <ul id="menubar">
-            <li><a href="http://satoken.nkmr.io/">HOME</a></li>
-            <li><a href="http://satoken.nkmr.io/profile/">PROFILE</a></li>
-            <li><a href="http://satoken.nkmr.io/research/">RESEARCH</a></li>
-            <li><a href="http://satoken.nkmr.io/product/">PRODUCT</a></li>
-            <li><a href="http://satoken.nkmr.io/interest/">INTEREST</a></li>
-            <li><a href="http://satoken.nkmr.io/activity/">ACTIVITY</a></li>
-            <li><a href="http://satoken.nkmr.io/link/">LINK</a></li>
+            <li><a href="https://satoken.nkmr.io/">HOME</a></li>
+            <li><a href="https://satoken.nkmr.io/profile/">PROFILE</a></li>
+            <li><a href="https://satoken.nkmr.io/research/">RESEARCH</a></li>
+            <li><a href="https://satoken.nkmr.io/product/">PRODUCT</a></li>
+            <li><a href="https://satoken.nkmr.io/activity/">ACTIVITY</a></li>
+            <li><a href="https://satoken.nkmr.io/link/">LINK</a></li>
         </ul>
     </div>
-    <img id="header" src="http://satoken.nkmr.io/img/header.jpg">
+    <img id="header" src="https://satoken.nkmr.io/img/header.jpg">
 
     <div id="content">
         <div class="heading">リンク一覧</div>
