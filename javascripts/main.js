@@ -1,6 +1,9 @@
 $(function(){
     $("tr:not(:nth-child(1))").mouseenter(function(){
-        $(this).css("background-color","#4ECCBF");
+        $(this).css({
+            "background-color":"#4ECCBF",
+            "cursor":"pointer"
+        });
         $(this).find("td").css("color","white");
         $(this).find("td").find("img").css("filter","invert(100%)");
 
